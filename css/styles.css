@@ -1,0 +1,16 @@
+.intro {
+  text-align: center;
+}
+#pandaPic, #zebraPic {
+  float: left;
+  padding-right: 50px;
+}
+
+#tigerPic {
+  float: right;
+  padding-left: 50px;
+}
+
+#panda, #tiger, #zebra {
+  display: none;
+}
